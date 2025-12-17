@@ -6,7 +6,7 @@ export const Header: React.FC = () => {
       <div className="flex items-center gap-4">
         <div className="w-16 h-16 overflow-hidden">
            <img 
-            src="src/assets/images/CGLogo.png" 
+            src="images/cglogo.png" 
             alt="CGSDMA Logo" 
             className="w-full h-full object-contain"
            />

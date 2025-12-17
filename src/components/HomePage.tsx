@@ -22,8 +22,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onLoginClick }) => {
         <div className="main-content">
           <div className="sidebar-home">
             <div className="profile-card">
-              <img 
-                src="src/assets/images/CMPhoto.png" 
+              <img src="images/cmphoto.png"                
                 alt="Shri Vishnu Dev Sai" 
               />
               <h3>श्री विष्णु देव साय</h3>
@@ -31,7 +30,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onLoginClick }) => {
             </div>
             <div className="profile-card">
               <img 
-                src="src/assets/images/TRVarma.png" 
+                src="images/trvarma.png" 
                 alt="Shri Tankaram Verma" 
               />
               <h3>श्री टंकराम वर्मा</h3>
@@ -72,7 +71,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onLoginClick }) => {
         <div className="mobile-profile-section">
           <div className="mobile-profile-card">
             <img 
-                src="src/assets/images/CMPhoto.png" 
+                src="images/cmphoto.png" 
                 alt="Shri Vishnu Dev Sai" 
             />
             <div className="mobile-profile-info">
@@ -82,7 +81,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onLoginClick }) => {
           </div>
           <div className="mobile-profile-card">
             <img 
-                src="src/assets/images/TRVarma.png" 
+                src="images/trvarma.png" 
                 alt="Shri Tankaram Verma" 
             />
             <div className="mobile-profile-info">
